@@ -8,6 +8,10 @@ Estudiante de 6to año de Ingeniería Civil en la Pontificia Universidad Católi
 
 ## Ayudantías
 
+### Github 16/03/23
+
+### Impresión 3D 23/03/23
+
 ## Proyectos
 
 En esta sección se encuentran los principales proyectos en desarrollo
