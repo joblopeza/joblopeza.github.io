@@ -1,5 +1,5 @@
 # ¡Bienvenidos!
-Mi nombre es Job López, y aquí podrás encontrar información sobre mi, mis proyectos y mi desarrollo como profesional.
+Mi nombre es Job López, y aquí podrás encontrar información sobre mí, mis proyectos y mi desarrollo como profesional.
 
 ## Perfil
 Estudiante de 6to año de Ingeniería Civil en la Pontificia Universidad Católica de Chile
