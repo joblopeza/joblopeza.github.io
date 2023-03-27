@@ -19,3 +19,6 @@ Dentro de los principales hobbies que realizo se encuentran:
 - Participar de la agrupación Guías y Scout Antu Pai Hue
 
 ## Contacto
+Correo: Joblopeza@uc.cl <br>
+Instagram: Joblopezzz <br>
+LinkedIn: Job López  
