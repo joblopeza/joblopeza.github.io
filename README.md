@@ -20,5 +20,5 @@ Dentro de los principales hobbies que realizo se encuentran:
 
 ## Contacto
 Correo: Joblopeza@uc.cl <br>
-Instagram: Joblopezzz <br>
-LinkedIn: Job López  
+Instagram: [Joblopezzz](https://instagram.com/joblopezzz?igshid=YmMyMTA2M2Y=) <br>
+LinkedIn: [Job López](https://www.linkedin.com/in/job-l%C3%B3pez-29686b248)  
