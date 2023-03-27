@@ -18,7 +18,7 @@ En esta sección se encuentran los principales proyectos en desarrollo
 
 ## Hobbies
 Dentro de los principales hobbies que realizo se encuentran:
-- Participar de la selección de Natación Uc
+- Participar de la selección de Natación UC
 - Participar del conjunto folclórico Raices de Chile y México
 - Participar de la agrupación Guías y Scout Antu Pai Hue
 
