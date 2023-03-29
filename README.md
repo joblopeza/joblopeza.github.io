@@ -10,7 +10,11 @@ Estudiante de 6to año de Ingeniería Civil en la Pontificia Universidad Católi
 
 ### Github 16/03/23
 
+En esta sesión se realizó una clase a cerca de Github, su modo de operar y sus aplicaciones, además de una práctica para crear una página web personal, usando de guía la información disponible en la [Guía de Markdown](https://www.markdownguide.org/basic-syntax)
+
 ### Impresión 3D 23/03/23
+
+En esta sesión se revisó información relevante sobre [Prusa Slicer](https://www.prusa3d.com/), su funcionamiento y aspectos relevantes a la hora de imprimir. Para la parte práctica, se buscaron elementos básicos en [Thinguiverse](https://www.thingiverse.com/), para posteriormente imprimirlos en las impresoras 3D del IIBM de la Pontificia Universidad Católica de Chile.
 
 ## Proyectos
 
