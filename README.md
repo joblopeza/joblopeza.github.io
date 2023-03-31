@@ -16,6 +16,10 @@ En esta sesión se realizó una clase a cerca de Github, su modo de operar y sus
 
 En esta sesión se revisó información relevante sobre [Prusa Slicer](https://www.prusa3d.com/), su funcionamiento y aspectos relevantes a la hora de imprimir. Para la parte práctica, se buscaron elementos básicos en [Thinguiverse](https://www.thingiverse.com/), para posteriormente imprimirlos en las impresoras 3D del IIBM de la Pontificia Universidad Católica de Chile.
 
+### OnShape 30/03/23
+
+En esta sesión se comentó el funcionamiento de [Onshape](https://www.onshape.com/en/), y sus ventajas de uso, comparadas con otros sowftwares de CAD más conocidos. Como actividad práctica, se solicitó prototipar una taza de café expresso, con ciertos requisitos a cumplir. 
+
 ## Proyectos
 
 En esta sección se encuentran los principales proyectos en desarrollo
