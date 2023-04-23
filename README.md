@@ -20,6 +20,14 @@ En esta sesión se revisó información relevante sobre [Prusa Slicer](https://w
 
 En esta sesión se comentó el funcionamiento de [Onshape](https://www.onshape.com/en/), y sus ventajas de uso, comparadas con otros sowftwares de CAD más conocidos. Como actividad práctica, se solicitó prototipar una taza de café expresso, con ciertos requisitos a cumplir. 
 
+### Ensamblaje de ADN 13/04/23
+
+En esta sesión se realizó ensamblaje de ADN con distintos segmentos, con la técnica de ["Golden Gate"](https://international.neb.com/applications/cloning-and-synthetic-biology/dna-assembly-and-cloning/golden-gate-assembly), para luego colocarlo en bacterias, esperando que proliferen y que se expresen proteinas fluorescentes de distintos colores (rojo, naranja y verde).
+
+### Detección de transgénicos en alimentos 20/04/23
+
+En esta sesión se identificó, mediante la técnica [LAMP](http://www.scielo.org.bo/scielo.php?script=sci_arttext&pid=S2310-02652014000100014), qué alimentos correspondían o presentaban componentes trangénicos. En esta ocasión, se analizaron muestras de tomate, choclo, galleta y hamburgueza de soja.
+
 ## Proyectos
 
 En esta sección se encuentran los principales proyectos en desarrollo
