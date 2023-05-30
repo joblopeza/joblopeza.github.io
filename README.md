@@ -28,6 +28,22 @@ En esta sesión se realizó ensamblaje de ADN con distintos segmentos, con la t�
 
 En esta sesión se identificó, mediante la técnica [LAMP](http://www.scielo.org.bo/scielo.php?script=sci_arttext&pid=S2310-02652014000100014), qué alimentos correspondían o presentaban componentes trangénicos. En esta ocasión, se analizaron muestras de tomate, choclo, galleta y hamburgueza de soja.
 
+### Método "Cell free" 27/04/23
+
+Esta experiencia se basó en la técnica de [Cell free](https://www.genome.gov/genetics-glossary/Cell-Free-DNA-Testing), la que permite analizar muestras de ADN sin que este esté dentro de una célula, presente en una muestra biológica. Generalmente se utiliza para estudiar variaciones genómicas, asociadas a factores hereditarios. Para esta ocasión, se ocuparon distintos tubos con LACZ y otros sin, para observar cómo se comporta la reacción de transcripción con su presencia y su ausencia.
+
+### Fundición en silicona utilizando superficies de tejidos biológicos 11/05/23
+
+En esta sesión generamos moldes mediante función, utilizando tejidos biológicos como hojas, pétalos, cuero, etc. Para esto, se utilizó silicóna dental, para registrar la superficie de los tejidos. Luego, se llenó el molde con resina y se irradió con luz UV, para una vez listo colocarlo en el microscópio y observar el resultado de la fundición.
+
+### Ensamblaje de bomba de jeringa 18/05/23
+
+En esta sesión se ensambló una bomba de jeringa Open Source, impresa en 3D. Se siguió el instructivo de la página oficial de [mass-spec](http://www.mass-spec.ru/projects/diy/syringe_pump/eng/) para el ensamblaje, y posteriormente, cuando estuvo listo, se colocó una jeringa para hacer la prueba de funcionamiento. Se colocaron parámetros asociados a la velocidad y al diámetro de la jeringa, y se observó cómo operaba.
+
+### Programación en Arduino 25/05/23
+
+Para esta sesión, se utilizó el software de [Arduino](https://www.arduino.cc/) para comprender y realizar algunos ejercicios de electrónica abierta. Para esta ocasión, se utilizó una placa UNO de arduino, para realizar las actividades, que fueron generar una secuencia de prendido y apagado de LEDs (como un semáforo) y la configuración de un motor. Finalmente, se tomaron mediciones del voltaje asociado a el motor que se utilizó en la sesión anterior (de la bomba de jeringa).
+
 ## Proyectos
 
 En esta sección se encuentran los principales proyectos en desarrollo
